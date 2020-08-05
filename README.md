@@ -8,3 +8,6 @@ For the script.js file, the main technologies used were jQuery and moment.js. I 
 
 Finally, I used getItem.localStorage rto etreieve the user iput form local storage so that they remain on the screen after the page is refreshed.
 
+Link to completed work: https://katiesutehall.github.io/work-day-scheduler/
+Screenshot of deployed work:
+<img width="840" alt="work-day-scheduler-screenshot" src="https://user-images.githubusercontent.com/66810951/89358593-66190200-d689-11ea-98db-d8e6e9c831a3.png">
